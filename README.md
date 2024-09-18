@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently 3rd year student at Astana IT University.
+- 🌱 I’m currently learning Java 
+- 📫 How to reach me in Telegram: @spasibo_chto_pozvali
+
 <!--
 **PollyBreak/PollyBreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
