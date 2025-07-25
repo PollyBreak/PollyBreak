@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m a Java Developer.
-- 🏫 I graduated in "Software Engineering" at Astana IT University.
+- 🔭 I’m a Java Developer
+- 🏫 I graduated in "Software Engineering" at Astana IT University
 - 🌱 I’m a fan of Java 
 - 📫 How to reach me in Telegram: @spasibo_chto_pozvali
 
